@@ -4,6 +4,7 @@
         <members>BaseInterface</members>
         <members>BaseTrigger</members>
         <members>ITrigger</members>
+        <members>OrderTriggerHandler</members>
         <members>TriggerFactoryNew</members>
         <name>ApexClass</name>
     </types>
